@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Louis Pasteur",
+      "specialty": "Molecular Asymmetry"
+    },
+    {
+      "name": "Dr. Jean-Martin Charcot",
+      "specialty": "Pathology"
+    },
+    {
+      "name": "Dr. Edward Jenner",
+      "specialty": "Immunology"
+    },
+    {
+      "name": "Dr. Andreas Vesalius",
+      "specialty": "Father of Modern Anatomy"
+    },
+    {
+      "name": "Sir Joseph Lister",
+      "specialty": "Antiseptic Surgery"
+    },
+    {
+      "name": "Hippocrates",
+      "specialty": "Father of Western Medicine"
+    },
+    {
+      "name": "Sir William Osler",
+      "specialty": "Fother of Modern Clinical Practice"
+    }
+  ]
+}
