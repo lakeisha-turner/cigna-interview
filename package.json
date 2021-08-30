@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "install-dependencies": "npm install -g jest && npm run backend-dependencies && npm run frontend-dependencies",
+    "install-dependencies": "npm run backend-dependencies && npm run frontend-dependencies",
     "start": "node --experimental-json-modules ./bin/www",
     "test": "jest tests",
     "testServerClient": "npm test && npm run testClient",
