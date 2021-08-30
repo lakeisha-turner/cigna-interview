@@ -1,5 +1,22 @@
-# Cigna Coding Sample Project
+# Start Servers
 
+1. Open a new terminal
+2. Type `npm run install-dependencies` to install all dependencies for server & client
+3. Start express server `npm start`
+4. Open a separate terminal to start client `npm run startClient` 
+
+# Unit Tests
+
+##  There are few ways to run tests
+
+-  At the root of the repository, type `npm run testServerClient` to run the backend and front end tests together
+-  To only see the backend tests type `npm test`
+-  To only see the front end tests type `npm run testClient` or type `cd client && npm test`
+
+
+
+
+# Project Details
 Create a web app (React or Angular based) and Nodejs API (Use framework of choice your choosing) to displays the provided dataset and which meets the following requirements:
 -	Utilize github as your repo source. We will be cloning your repo to get the application to work locally to check out your work.
 -	Include launch instructions in your repo to include any installation of dependencies.
